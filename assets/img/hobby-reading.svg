@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="打开的书本插画">
+  <rect width="240" height="180" rx="28" fill="#fff1e6"/>
+  <circle cx="198" cy="40" r="22" fill="#ffd0ad"/>
+  <path d="M24 56c32-14 64-12 96 4v88c-32-16-64-18-96-4z" fill="#e2552f"/>
+  <path d="M216 56c-32-14-64-12-96 4v88c32-16 64-18 96-4z" fill="#3f72af"/>
+  <path d="M120 60v88" stroke="#fff" stroke-width="4" opacity=".8"/>
+  <path d="M42 76c24-8 48-6 66 4M42 94c24-8 48-6 66 4M42 112c24-8 48-6 66 4" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+  <path d="M198 76c-24-8-48-6-66 4M198 94c-24-8-48-6-66 4M198 112c-24-8-48-6-66 4" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+  <path d="M150 48v44l12-10 12 10V48z" fill="#ffb36b"/>
+</svg>

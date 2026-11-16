@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="跑鞋插画">
+  <rect width="240" height="180" rx="28" fill="#e7f4f1"/>
+  <circle cx="52" cy="46" r="18" fill="#bfe3dc"/>
+  <path d="M30 118c14-4 24-14 32-30l14-30 26 12-8 26 34 16c16 8 28 12 44 12 12 0 20 6 20 16v10H38c-12 0-18-6-18-16 0-6 4-12 10-16z" fill="#2f9e8f"/>
+  <path d="M38 132h154c10 0 16 6 16 14H30c0-8 2-14 8-14z" fill="#fff"/>
+  <path d="M78 82l22 10M92 66l20 10M108 90l24 12" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M22 70h28M14 88h22M30 54h16" stroke="#e2552f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M182 46l6 14 14 6-14 6-6 14-6-14-14-6 14-6z" fill="#ffb36b"/>
+</svg>

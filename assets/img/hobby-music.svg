@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="耳机与音符插画">
+  <rect width="240" height="180" rx="28" fill="#fff1e6"/>
+  <circle cx="198" cy="42" r="22" fill="#ffd0ad"/>
+  <path d="M52 106V88c0-38 30-68 68-68s68 30 68 68v18" fill="none" stroke="#3f72af" stroke-width="14" stroke-linecap="round"/>
+  <rect x="38" y="96" width="32" height="52" rx="15" fill="#e2552f"/>
+  <rect x="170" y="96" width="32" height="52" rx="15" fill="#e2552f"/>
+  <path d="M96 132V72l48-12v60" fill="none" stroke="#243142" stroke-width="8" stroke-linejoin="round"/>
+  <ellipse cx="86" cy="134" rx="14" ry="10" transform="rotate(-18 86 134)" fill="#243142"/>
+  <ellipse cx="134" cy="122" rx="14" ry="10" transform="rotate(-18 134 122)" fill="#243142"/>
+  <circle cx="60" cy="60" r="6" fill="#ffb36b"/>
+  <circle cx="180" cy="70" r="5" fill="#2f9e8f" opacity=".7"/>
+</svg>

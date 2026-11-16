@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="相机插画">
+  <rect width="240" height="180" rx="28" fill="#eef1fb"/>
+  <rect x="36" y="58" width="168" height="92" rx="18" fill="#3f72af"/>
+  <path d="M70 58l12-18h48l12 18z" fill="#35506b"/>
+  <circle cx="120" cy="104" r="30" fill="#fff"/>
+  <circle cx="120" cy="104" r="20" fill="#8fb6e0"/>
+  <circle cx="120" cy="104" r="10" fill="#35506b"/>
+  <rect x="170" y="72" width="20" height="12" rx="4" fill="#ffb36b"/>
+  <circle cx="174" cy="46" r="7" fill="#e2552f"/>
+  <path d="M172 28l5 11 11 5-11 5-5 11-5-11-11-5 11-5z" fill="#ffb36b"/>
+</svg>

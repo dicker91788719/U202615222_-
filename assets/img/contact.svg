@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="信封和对话气泡插画">
+  <rect width="420" height="320" rx="40" fill="#fff1e6"/>
+  <circle cx="354" cy="62" r="30" fill="#ffd0ad"/>
+  <path d="M84 128h196c16 0 28 12 28 28v92c0 16-12 28-28 28H84c-16 0-28-12-28-28v-92c0-16 12-28 28-28z" fill="#fff"/>
+  <path d="M60 150l150 92 150-92" fill="none" stroke="#e2552f" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M60 268l96-76M310 268l-96-76" stroke="#ffb36b" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(244 54)">
+    <rect width="126" height="66" rx="20" fill="#3f72af"/>
+    <path d="M28 66l-4 22 24-22z" fill="#3f72af"/>
+    <rect x="18" y="22" width="70" height="7" rx="3.5" fill="#fff" opacity=".85"/>
+    <rect x="18" y="38" width="50" height="7" rx="3.5" fill="#fff" opacity=".6"/>
+  </g>
+  <path d="M70 74l7 16 16 7-16 7-7 16-7-16-16-7 16-7z" fill="#2f9e8f"/>
+</svg>

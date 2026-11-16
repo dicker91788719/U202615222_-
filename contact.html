@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>联系我 · 陈天哲的个人小站</title>
+  <meta name="description" content="给陈天哲的个人小站留言，聊聊网页、课程或共同爱好。">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="主导航">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">C</span>
+        <span class="brand-text">陈天哲的小站<small>MY PERSONAL SPACE</small></span>
+      </a>
+      <button class="nav-toggle" type="button" aria-label="展开菜单" aria-expanded="false">☰</button>
+      <div class="nav-links">
+        <a href="index.html">首页</a>
+        <a href="about.html">关于我</a>
+        <a href="growth.html">成长足迹</a>
+        <a href="interests.html">兴趣角落</a>
+        <a href="works.html">我的作品</a>
+        <a href="contact.html">联系我</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-wrap page-hero">
+      <div>
+        <div class="breadcrumb"><a href="index.html">首页</a> / 联系我</div>
+        <h1>联系我</h1>
+        <p>如果你也喜欢这个站点，欢迎留言。每次收到消息我都会很开心。</p>
+      </div>
+      <img src="assets/img/contact.svg" alt="信封和对话气泡插画">
+    </section>
+
+    <section class="page-wrap section">
+      <div class="contact-layout">
+        <div class="panel reveal">
+          <h2>找到我</h2>
+          <p>可以通过下面的方式和我联系，也可以直接在本页留言。</p>
+          <ul class="contact-list">
+            <li><span class="contact-dot">邮</span><span><b>邮箱</b>1721263365@qq.com</span></li>
+            <li><span class="contact-dot">站</span><span><b>个人主页</b>本页面所在的 GitHub Pages 站点</span></li>
+            <li><span class="contact-dot">课</span><span><b>课程</b>《计算机基础》课程设计</span></li>
+          </ul>
+          <button class="btn btn-ghost" id="copyUrl" type="button" data-url="https://YOUR_NAME.github.io/YOUR_REPO/index.html" style="margin-top:18px">复制主页地址</button>
+        </div>
+
+        <div class="panel reveal">
+          <h2>给我留言</h2>
+          <form id="contactForm">
+            <div class="form-row">
+              <div class="field">
+                <label for="visitorName">你的称呼</label>
+                <input id="visitorName" name="visitorName" type="text" placeholder="例如：同学 A" required>
+              </div>
+              <div class="field">
+                <label for="visitorTopic">留言主题</label>
+                <input id="visitorTopic" name="visitorTopic" type="text" placeholder="例如：网页交流">
+              </div>
+            </div>
+            <div class="field">
+              <label for="visitorMessage">留言内容</label>
+              <textarea id="visitorMessage" name="visitorMessage" placeholder="写点什么吧……" required></textarea>
+            </div>
+            <button class="btn btn-primary" type="submit">发送留言（打开邮箱）</button>
+            <p class="form-note">点击发送后会打开你的邮箱客户端，主题和正文已自动填好。</p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>© <span id="year">2026</span> 陈天哲 · 计算机基础课程设计</span>
+      <span>纯 HTML + CSS + JavaScript 制作 · GitHub Pages 托管</span>
+    </div>
+  </footer>
+  <button class="back-to-top" id="backToTop" type="button" aria-label="返回顶部">↑</button>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
